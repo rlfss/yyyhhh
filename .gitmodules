@@ -12,3 +12,8 @@
 	path = OCA/account-invoicing
 	url = git@github.com:OCA/account-invoicing.git
 	branch = 12.0
+
+[submodule "rlfss/hhhyyy3333"]
+	path = rlfss/hhhyyy3333
+	url = git@github.com:rlfss/hhhyyy.git
+	branch = master3
