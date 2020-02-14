@@ -1,0 +1,4 @@
+[submodule "rlfss/hhhyyy"]
+	path = rlfss/hhhyyy
+	url = git@github.com:rlfss/hhhyyy.git
+	branch = master
