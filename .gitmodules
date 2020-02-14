@@ -2,3 +2,8 @@
 	path = rlfss/hhhyyy
 	url = git@github.com:rlfss/hhhyyy.git
 	branch = master
+
+[submodule "rlfss/hhhyyy22222"]
+	path = rlfss/hhhyyy22222
+	url = git@github.com:rlfss/hhhyyy.git
+	branch = master2
