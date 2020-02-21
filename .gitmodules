@@ -27,3 +27,8 @@
 	path = rlfss/hhhyyy555
 	url = git@github.com:rlfss/hhhyyy.git
 	branch = master3
+
+[submodule "odoo/odoo"]
+	path = odoo/odoo
+	url = git@github.com:odoo/odoo.git
+	branch = 12.0
